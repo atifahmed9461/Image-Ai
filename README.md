@@ -8,9 +8,8 @@ A Discord bot written in JavaScript using the Image-AI library. This bot can per
 - `/ping`: Check the bot's latency.
 - `/uptime`: Display the bot's uptime.
 
-## Prerequisites
+## Requisites
 
-- 
 - Make sure on this!
   ![logo](https://media.discordapp.net/attachments/1090286019435319309/1198621715161436200/Screenshot_2024-01-21_193324.png?ex=65bf9276&is=65ad1d76&hm=a4e7a00d837a79cc3615bff84d1141e04298f722150b37a8523397d72d5dcb56&=&format=webp&quality=lossless&width=819&height=324)
 
