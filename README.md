@@ -18,4 +18,4 @@ A Discord bot written in JavaScript using the Image-AI library. This bot can per
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/discord-image-ai-bot.git
+   git clone https://github.com/atifahmed9461/Image-Ai.git
