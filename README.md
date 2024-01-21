@@ -28,4 +28,8 @@ A Discord bot written in JavaScript using the Image-AI library. This bot can per
   
 4. Than put your bot token `.env`
 
-5. After installation finishes follow configuration instructions then run `node .` to start the bot.
+   ```bash
+   TOKEN = YOUR_BOT_TOKEN
+   CLIENT_ID = YOUR_BOT_USER_ID
+
+6. After installation finishes follow configuration instructions then run `node .` to start the bot.
